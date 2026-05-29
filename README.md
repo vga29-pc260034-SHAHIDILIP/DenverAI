@@ -87,7 +87,7 @@ java Main
 
 
 
-\[Denver AI Screenshot](screenshot.png.png)
+!\[Denver AI Screenshot](screenshot.png.png)
 
 
 
